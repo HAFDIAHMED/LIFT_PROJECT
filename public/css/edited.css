@@ -1,0 +1,7 @@
+.form-control{
+    font-family: inherit;
+}
+.alert-error{
+    background-color: #F44336;
+    color: white;
+}

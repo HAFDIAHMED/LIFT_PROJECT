@@ -1,0 +1,11 @@
+{
+    "last_remote_check": 1600166020,
+    "hooks": {
+        "voyager-excel": {
+            "name": "voyager-excel",
+            "description": "voyager excel export hook",
+            "version": "dev-master",
+            "enabled": false
+        }
+    }
+}
